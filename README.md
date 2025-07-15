@@ -2,9 +2,7 @@
 
 A RESTful **Bank Account Management System** built with Java 21 and Spring Boot. This application allows users to **Create, Read, Update, and Delete** (CRUD) bank account details via exposed HTTP endpoints.
 
-Developed as part of the **Object-Oriented Programming (OOP)** course in the 4th semester of **Computer Science and Artificial Intelligence Engineering** at **KLE Technological University, Belagavi**.
 
----
 
 ## 🧠 Problem Statement
 
@@ -17,30 +15,30 @@ To solve this, we propose a RESTful backend application using Spring Boot, desig
 ## 🎯 Objective
 
 To design and implement a **Bank Account Management System** that:
-- 🌐 Offers RESTful API endpoints to perform CRUD operations  
-- ⚙️ Uses Spring Boot and Java 21 for backend logic and modular structure  
-- 🐬 Integrates with MySQL using Spring Data JPA  
-- 🧪 Is testable using tools like Postman and Swagger  
-- 🧱 Demonstrates best practices of Object-Oriented Programming (OOP)  
+- Offers RESTful API endpoints to perform CRUD operations  
+- Uses Spring Boot and Java 21 for backend logic and modular structure  
+- Integrates with MySQL using Spring Data JPA  
+- Is testable using tools like Postman and Swagger  
+- Demonstrates best practices of Object-Oriented Programming (OOP)  
 
 ---
 
 ## ✨ Features
 
-- 🏦 Add new bank accounts  
-- 👀 View all or specific account details  
-- ✏️ Update existing accounts  
-- ❌ Delete accounts  
+- Add new bank accounts  
+- View all or specific account details  
+- Update existing accounts  
+- Delete accounts  
 
 ---
 
 ## 🧰 Tech Stack
 
-- ☕ Java 21  
-- 🌱 Spring Boot  
-- 🐬 MySQL  
-- 📦 Spring Data JPA  
-- 🧪 Postman  
-- 🔍 Swagger  
+- Java 21  
+- Spring Boot  
+- MySQL  
+- Spring Data JPA  
+- Postman  
+- Swagger  
 
 ---
